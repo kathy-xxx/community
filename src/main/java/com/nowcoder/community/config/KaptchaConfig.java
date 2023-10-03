@@ -6,7 +6,6 @@ import com.google.code.kaptcha.util.Config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import javax.validation.groups.Default;
 import java.util.Properties;
 
 @Configuration
